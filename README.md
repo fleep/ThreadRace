@@ -1,4 +1,4 @@
-Just a little calisthenics with multithreading in Java.
+Just a little calisthenics with multithreading in Java. 100% of the code can be found in [Main.java](./src/main/java/org/fleep/Main.java).
 
 Simulates a horse race with 5 horses, where each horse is moved by a different thread. The main thread checks horse progress to see if there was a winner and renders the race.
 
